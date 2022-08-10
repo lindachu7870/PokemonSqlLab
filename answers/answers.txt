@@ -1,0 +1,6 @@
+What are all the types of pokemon that a pokemon can have?
+SELECT * FROM pokemon.types;
+
+What is the name of the pokemon with id 45? EEVEE
+SELECT name FROM pokemon.pokemons WHERE id = 45;
+
